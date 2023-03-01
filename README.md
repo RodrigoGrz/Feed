@@ -13,6 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJS
 - NodeJS
 - CSS Modules
+- Phosphor Icons
 
 ## 😁 Como utilizar
 
